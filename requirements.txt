@@ -1,0 +1,9 @@
+mail-parser
+pandas
+scikit-learn
+joblib
+streamlit
+requests
+matplotlib
+reportlab
+pip 
